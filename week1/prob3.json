@@ -1,0 +1,16 @@
+{
+    "name": "jiyun won",
+    "job": "student",
+    "age": "21",
+    "hobby": ["drawing", "photoshop"],
+    "course_table": [{
+            "name": "Operating system",
+            "id": "CSED312"
+        },
+        {
+            "name": "University Physics II",
+            "id": "PHYS102"
+        }
+    ]
+
+}
